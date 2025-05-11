@@ -1,0 +1,1 @@
+python3 GRID-optimizer.py files/grid-ga.conf files/stations.txt --events files/events-all.csv --visualize
